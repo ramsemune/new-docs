@@ -29,7 +29,7 @@
     "@mdx-js/react": "^1.6.1",
     "@mdx-js/tag": "^0.20.3",
     "@reach/router": "^1.2.1",
-    "@sentry/browser": "^5.21.4",
+    "@sentry/browser": "^5.30.0",
     "@stellar/eslint-config": "^1.0.5",
     "@stellar/prettier-config": "^1.0.1",
     "@typescript-eslint/eslint-plugin": "3.9.1",
