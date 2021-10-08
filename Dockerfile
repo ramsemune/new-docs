@@ -34,7 +34,7 @@ COPY src /app/src/src
 ARG AMPLITUDE_KEY
 RUN yarn build
 
-FROM nginx:1.17
+FROM nginx:1.21.1
 
 COPY --from=build /app/src/public /usr/share/nginx/html/new-docs/public
 COPY static /usr/share/nginx/html/new-docs/static
