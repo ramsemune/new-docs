@@ -2087,6 +2087,11 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
+"@snyk/protect@^1.1237.0":
+  version "1.1237.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1237.0.tgz#b519ab732be6fccbfe275afef57aff96f8f11d24"
+  integrity sha512-5Je1qe+K5AIhT2X8QiJuCpIxlbgXlmdU+BSc2/6Pn/2H5yo4bMpi0ajHWP8M/b2hMvJGzfxVcvTDdk4oxxisRg==
+
 "@stellar/eslint-config@^1.0.5":
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/@stellar/eslint-config/-/eslint-config-1.0.5.tgz#00616eb6342e839ffa5c0d9e2539dccd64ede764"
