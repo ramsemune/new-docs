@@ -79,7 +79,7 @@
     "jest": "^26.4.2",
     "lodash": "^4.17.20",
     "prettier": "^2.1.0",
-    "pretty-quick": "^3.0.0",
+    "pretty-quick": "^4.1.0",
     "prismjs": "^1.21.0",
     "prop-types": "^15.7.2",
     "puppeteer": "^5.2.1",
